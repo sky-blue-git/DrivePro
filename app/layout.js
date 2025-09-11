@@ -36,7 +36,7 @@ export default function RootLayout({ children }) {
                 </p>
                 <div className="mt-6 w-32 h-px premium-gradient mx-auto"></div>
                 <div className="mt-8 text-xs text-muted-foreground opacity-70">
-                  © 2024 DrivePro. All rights reserved.
+                  © 2025 DrivePro. All rights reserved.
                 </div>
               </div>
             </footer>
